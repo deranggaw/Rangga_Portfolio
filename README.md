@@ -37,5 +37,6 @@ One of my key objectives was to emphasize the distribution of Airbnb listings ac
   
 # Contact
   LinkedIn [link](https://www.linkedin.com/in/deranggaw/)
+  
   Email wderangga@gmail.com
 
