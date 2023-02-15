@@ -2,13 +2,13 @@
 # About
 Hi, I'm Derangga! I hold a bachelor’s degree in Business Administration and Management from Universitas Prasetiya Mulya with a major in Business. I have experience in business analysis, data analysis, and business development. My experience includes working as a Data Analyst at House of Analytics, a Data Entry Operator at PT. Tiki Jalur Nugraha Ekakurir (JNE), and an Intern at Sinar Mas Land. I am currently a Grow Business Specialist at blitznet (PT. Blitznet Upaya Indonesia), where I analyse industrial data, develop new business opportunities, and identify new partnership potentials. My skills include Customer Relationship Management (CRM), Data Analysis, Data Entry, Business Development, Public Speaking, Microsoft Office, Google Data Studio, Tableau, and Python.
 
-My [CV](https://drive.google.com/file/d/1_mrSDsv5aaOdu3bqkOAd_GIUXc3zkl5o/view?usp=sharing)
+My [CV](https://drive.google.com/file/d/17ubApFZdNUu-NwDRGIMKN7_aJ2lT-Miq/view?usp=sharing)
 
 # Portfolio Project
 This repository is a demonstration of my abilities and a means to share my work and monitor my advancement in the field of Data Analytics.
 
 ## Phyton Assignment
-Code : [Google Colab](https://drive.google.com/file/d/17ubApFZdNUu-NwDRGIMKN7_aJ2lT-Miq/view?usp=sharing)
+Code : [Google Colab](https://colab.research.google.com/drive/18d4Vp1hP7YrYTO0RjiZBma4MCiPciA8g?usp=sharing)
 
 I want to share a project I undertook during my time in the intensive Full Stack Data Analytics program at RevoU, which was one of the most challenging assignments I've ever done. The project involved analyzing a complex dataset from a fictional Indonesian Fintech company using only Python as the analysis tool.
 
