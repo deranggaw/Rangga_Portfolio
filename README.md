@@ -8,7 +8,7 @@ My [CV](https://drive.google.com/file/d/1_mrSDsv5aaOdu3bqkOAd_GIUXc3zkl5o/view?u
 This repository is a demonstration of my abilities and a means to share my work and monitor my advancement in the field of Data Analytics.
 
 ## Phyton Assignment
-Code : [Google Colab](https://colab.research.google.com/drive/1vq8_Ly18qrVauvkwhY-mhXMMtXON6EzA?usp=sharing)
+Code : [Google Colab](https://drive.google.com/file/d/17ubApFZdNUu-NwDRGIMKN7_aJ2lT-Miq/view?usp=sharing)
 
 I want to share a project I undertook during my time in the intensive Full Stack Data Analytics program at RevoU, which was one of the most challenging assignments I've ever done. The project involved analyzing a complex dataset from a fictional Indonesian Fintech company using only Python as the analysis tool.
 
