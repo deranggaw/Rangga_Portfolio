@@ -33,7 +33,9 @@ One of my key objectives was to emphasize the distribution of Airbnb listings ac
 ## Market Basket Analysis
   Code: [Google Colab](https://colab.research.google.com/drive/1oVi4tmd-L7We-gB8czTGrMeIBQ8ldW3W?usp=sharing)
   
-  Description: 
+  Description: Market basket analysis is a technique used in data mining and analytics to identify the relationships between products that customers frequently purchase together. It is based on the concept that if a customer buys a particular product, they are more likely to purchase another related product.
+
+This analysis is commonly used by retailers to understand customer buying patterns and make decisions about product placement, promotions, and pricing. By identifying which products are frequently purchased together, retailers can create targeted marketing strategies and improve their product offerings.
   
 # Contact
   LinkedIn [link](https://www.linkedin.com/in/deranggaw/)
