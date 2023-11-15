@@ -1,4 +1,4 @@
-# Rangga's_Portofolio
+# Rangga's_Portfolio
 # About
 Hi, I'm Derangga! I hold a bachelor’s degree in Business Administration and Management from Universitas Prasetiya Mulya with a major in Business. I have experience in business analysis, data analysis, and business development. My experience includes working as a Data Analyst at House of Analytics, a Data Entry Operator at PT. Tiki Jalur Nugraha Ekakurir (JNE), and an Intern at Sinar Mas Land. I am currently a Grow Business Specialist at blitznet (PT. Blitznet Upaya Indonesia), where I analyse industrial data, develop new business opportunities, and identify new partnership potentials. My skills include Customer Relationship Management (CRM), Data Analysis, Data Entry, Business Development, Public Speaking, Microsoft Office, Google Data Studio, Tableau, and Python.
 
@@ -18,7 +18,7 @@ Next, I performed an exploratory data analysis to identify patterns, detect anom
 
 Finally, I executed clustering analysis using the k-means clustering algorithm, an unsupervised machine learning method, to group similar users in the dataset into segments.
 
-## Olist Company Analysis (Group Projetct)
+## Olist Company Analysis (Group Project)
   Presentation: [PPT](https://drive.google.com/file/d/1BRfy-fy7598tSlQp5gdaODJFPnvssCJc/view?usp=sharing)
   
   Dashboard: [Tableu](https://public.tableau.com/views/DataAnalysisOlistCompanyBrazil/Home?:language=en-US&:display_count=n&:origin=viz_share_link) 
@@ -28,7 +28,7 @@ Finally, I executed clustering analysis using the k-means clustering algorithm, 
  
 While taking part in RevoU's Fullstack Data Analytics Program, I had the thrilling chance to investigate the Airbnb market in Singapore and create a related data analytics dashboard with Tableau and GDS. This project particularly piqued my interest because Singapore is renowned for its thriving and diverse tourism sector, making the Airbnb market a worthwhile area to study and comprehend.
 
-One of my key objectives was to emphasize the distribution of Airbnb listings across different neighborhoods in Singapore. To realize this, I crafted an interactive map that showed the position of each listing and offered filtering options for users to effortlessly investigate areas of specific interest.
+One of my key objectives was to emphasize the distribution of Airbnb listings across different neighbourhoods in Singapore. To realize this, I crafted an interactive map that showed the position of each listing and offered filtering options for users to effortlessly investigate areas of specific interest.
 
 ## Market Basket Analysis
   Code: [Google Colab](https://colab.research.google.com/drive/1oVi4tmd-L7We-gB8czTGrMeIBQ8ldW3W?usp=sharing)
