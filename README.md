@@ -4,7 +4,7 @@ HI! I'm Derangga Widrananda, I'm a Business Analyst with hands-on experience in 
 
 I offer strong capabilities in requirements elicitation, functional specifications, process modelling (BPMN, swimlane diagrams), advanced data visualisation and reporting (Power BI, Tableau, Google Data Studio, SQL, Python, Advanced Excel), ERP systems (Jubelio), Salesforce (user level), budgeting, financial planning, and change management. Based in Auckland, I am open to Business Analyst, ERP Analyst, or Digital Transformation roles across New Zealand, with immediate availability on a Post-Study Work Visa pathway. I am passionate about translating complex business and regulatory needs into effective, measurable digital and process solutions, particularly in operationally intensive or compliance-driven environments.
 
-My [CV](https://docs.google.com/document/d/1JLPZ9qqeHbz5-FZyhH7_2oaI6jXUlPnd/edit?usp=share_link&ouid=113219065703213145548&rtpof=true&sd=true)
+My [CV](https://drive.google.com/file/d/1fU1ug46a4hVS1PsjusgFKUW5z1IdY0zn/view?usp=share_link)
 
 # Portfolio Project
 This repository is a demonstration of my abilities and a means to share my work and monitor my advancement in the field of Data Analytics.
